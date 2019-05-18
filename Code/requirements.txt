@@ -1,0 +1,4 @@
+Libraries
+1. Keras
+2. sklearn
+3. nltk
