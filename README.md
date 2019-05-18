@@ -12,12 +12,19 @@
     
     
 2. Implementations of Supervised Learning Algorithm
+
     a. Algorithm : KNN Algorithm
+    
     b. Folder : /SupervisedLearningKNN
+    
     c. Dependencies : /SupervisedLearningKNN/requirements.txt
     
+    
 3. Unsupervised Learning Algorithm
+
     a. Algorithm : K-means Clustering
+    
     b. Folder : /Unsupervised Learning
+    
     c. Dependencies : /Unsupervised Learning/requirements.txt
 
