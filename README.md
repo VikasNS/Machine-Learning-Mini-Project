@@ -4,7 +4,7 @@
 
     a. Name : A Deep Learning Approach for Mnemonic Generation
     
-    b. Code : /Code
+    b. Code : /MnemonicGenerator
     
     c. Paper : /Our Research Paper/ML Mini Project.pdf
     
