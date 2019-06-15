@@ -28,3 +28,6 @@
     
     c. Dependencies : /Unsupervised Learning/requirements.txt
 
+## Video Demo of the project ( https://youtu.be/4uSgLzDbKNQ )
+ ![image](https://drive.google.com/uc?export=view&id=14mFA-q6mxjDp03sz3_cbS8l31CH6j8W2)
+
