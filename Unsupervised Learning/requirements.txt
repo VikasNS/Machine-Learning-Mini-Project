@@ -8,7 +8,7 @@ Pillow == 6.0.0
 matplotlib == 3.0.3
 
 # kmeans.py: 22
-numpy == 1.16.2
+numpy == 1.22.0
 
 # kmeans.py: 23
 pandas == 0.24.2
