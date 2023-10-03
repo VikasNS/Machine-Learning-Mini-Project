@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # kmeans.py: 25
-Pillow == 6.0.0
+Pillow == 10.0.1
 
 # kmeans.py: 24
 matplotlib == 3.0.3
